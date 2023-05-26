@@ -29,10 +29,10 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             bindings = <
-  &kp ESCAPE  &kp Q  &kp W       &kp E      &kp R      &kp T        &kp Y  &kp U      &kp I    &kp O         &kp P      &kp BSPC
-&kp CAPSLOCK  &kp A  &kp S       &kp D      &kp F      &kp G        &kp H  &kp J      &kp K    &kp L  &kp NUMBER_2  &kp NUMBER_3
-  &kp DELETE  &kp Z  &kp X       &kp C      &kp V      &kp B        &kp N  &kp M  &kp COMMA  &kp DOT     &kp SLASH    &kp DELETE
-                            &kp LSHIFT  &kp LCTRL  &kp SPACE    &kp ENTER  &mo 2      &mo 1
+  &kp ESCAPE  &kp Q  &kp W       &kp E             &kp R      &kp T        &kp Y  &kp U      &kp I    &kp O         &kp P      &kp BSPC
+&kp CAPSLOCK  &kp A  &kp S       &kp D             &kp F      &kp G        &kp H  &kp J      &kp K    &kp L  &kp NUMBER_2  &kp NUMBER_3
+  &kp LSHIFT  &kp Z  &kp X       &kp C             &kp V      &kp B        &kp N  &kp M  &kp COMMA  &kp DOT     &kp SLASH    &kp DELETE
+                            &kp DELETE  &kp LEFT_CONTROL  &kp SPACE    &kp ENTER  &mo 2      &mo 1
             >;
         };
 
