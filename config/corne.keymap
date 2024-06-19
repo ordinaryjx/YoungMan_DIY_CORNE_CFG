@@ -53,10 +53,10 @@
 
         layer_3 {
             bindings = <
-&trans  &kp CAPS   &kp LG(V)      &kp LG(E)     &kp LG(L)   &trans    &kp MINUS     &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp SLASH     &trans
-&trans  &kp ENTER  &kp BACKSPACE  &kp UP_ARROW  &kp DELETE  &trans    &kp PLUS      &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp ASTERISK  &trans
-&trans  &kp LG(D)  &kp LEFT       &kp DOWN      &kp RIGHT   &trans    &kp EQUAL     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp KP_DOT    &trans
-                                  &kp LEFT_WIN  &trans      &trans    &kp NUMBER_0  &trans        &trans
+&trans  &kp CAPS   &kp BACKSPACE   &kp UP_ARROW    &kp DELETE  &trans    &kp MINUS     &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp SLASH     &trans
+&trans  &kp ENTER  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT   &trans    &kp PLUS      &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp ASTERISK  &trans
+&trans  &kp LG(D)  &kp LG(L)       &kp LG(E)       &kp LG(V)   &trans    &kp EQUAL     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp KP_DOT    &trans
+                                   &kp LEFT_WIN    &trans      &trans    &kp NUMBER_0  &trans        &trans
             >;
         };
     };
